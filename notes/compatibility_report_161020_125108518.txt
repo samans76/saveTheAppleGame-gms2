@@ -1,0 +1,2 @@
+Font font_Universal has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_Universal\font_Universal.gms1.png
